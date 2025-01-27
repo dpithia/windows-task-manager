@@ -1,8 +1,19 @@
 .window {
   margin: 20px auto;
   height: 400px;
+  position: relative;
 }
 
 .add-group {
   margin-top: 10px;
+}
+
+fieldset {
+  margin: 10px auto;
+}
+
+.status-bar {
+  position: absolute;
+  bottom: 10px;
+  width: 400px;
 }
