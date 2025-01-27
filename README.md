@@ -40,7 +40,7 @@ The project uses a combination of:
   - Background: #008080 (Classic teal)
   - Window: #C0C0C0 (Classic silver)
   - Accents: Various greys and whites for authentic shadowing
-![ScreenShot](https://i.postimg.cc/02nX75MG/Screenshot-2025-01-26-at-9-01-56-PM.png)
+<img src="[https://github.com/favicon.ico](https://i.postimg.cc/02nX75MG/Screenshot-2025-01-26-at-9-01-56-PM.png)" width="48">
 
 ## 🚀 Getting Started
 
