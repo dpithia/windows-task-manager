@@ -29,7 +29,6 @@ fieldset {
 }
 
 .status-bar {
-  position: absolute;
   bottom: 10px;
   width: calc(100% - 16px);
   margin: 0 8px;
