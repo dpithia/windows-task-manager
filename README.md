@@ -40,6 +40,7 @@ The project uses a combination of:
   - Background: #008080 (Classic teal)
   - Window: #C0C0C0 (Classic silver)
   - Accents: Various greys and whites for authentic shadowing
+![]https://postimg.cc/bdVRWJkK
 
 ## 🚀 Getting Started
 
