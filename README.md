@@ -29,7 +29,7 @@ This is a visual prototype in early development. The UI elements are in place, b
 ## 🛠 Technologies Used
 - HTML5
 - CSS3
-- [98.css](https://unpkg.com/98.css) - A CSS library for building interfaces that look like Windows 98
+- [98.css]([https://unpkg.com/98.css](https://i.postimg.cc/02nX75MG/Screenshot-2025-01-26-at-9-01-56-PM.png)) - A CSS library for building interfaces that look like Windows 98
 
 ## 🎨 Styling
 
