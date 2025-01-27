@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Windows Task Manager</title>
+    <link rel="stylesheet" href="https://unpkg.com/98.css" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="window" style="width: 500px">
+      <div class="title-bar">
+        <div class="title-bar-text">Windows Task Manager</div>
+        <div class="title-bar-controls">
+          <button aria-label="Minimize"></button>
+          <button aria-label="Maximize"></button>
+          <button aria-label="Close"></button>
+        </div>
+      </div>
+      <div class="window-body">
+        <menu role="tablist">
+          <li role="tab" aria-selected="true"><a href="#tabs">Tasks</a></li>
+          <li role="tab"><a href="#tabs">Details</a></li>
+          <li role="tab"><a href="#tabs">Performance</a></li>
+        </menu>
+        <fieldset class="add-group">
+          <div class="field-row">
+            <label for="text17">Add a task</label>
+            <input id="text17" type="text" />
+            <button class="default">OK</button>
+            <div class="field-row" style="width: 150px">
+              <label for="range22">Priority:</label>
+              <label for="range23">Low</label>
+              <input id="range23" type="range" min="1" max="11" value="5" />
+              <label for="range24">High</label>
+            </div>
+          </div>
+        </fieldset>
+      </div>
+    </div>
+  </body>
+</html>
