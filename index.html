@@ -37,17 +37,17 @@
             </div>
           </div>
         </fieldset>
-
         <fieldset class="tasks">
           <label for="text17">Running</label>
-          <div class="sunken-panel" style="height: 120px; width: 300px">
+          <div class="sunken-panel" style="height: 120px; width: 340px">
             <table class="interactive">
               <thead>
                 <tr>
                   <th>Name</th>
                   <th>Priority</th>
                   <th>Date Added</th>
-                  <th style="width: 200px">Completed</th>
+                  <th>Status</th>
+                  <th>Actions</th>
                 </tr>
               </thead>
               <tbody>
@@ -55,19 +55,37 @@
                   <td>Get groceries</td>
                   <td>High</td>
                   <td>01/26/2025</td>
-                  <td>Ongoing</td>
+                  <td>
+                    <input type="checkbox" id="task1" />
+                    <label for="task1">Complete</label>
+                  </td>
+                  <td>
+                    <button class="small-btn">Remove</button>
+                  </td>
                 </tr>
                 <tr>
                   <td>Walk dogs</td>
                   <td>High</td>
                   <td>01/26/2025</td>
-                  <td>Ongoing</td>
+                  <td>
+                    <input type="checkbox" id="task2" />
+                    <label for="task2">Complete</label>
+                  </td>
+                  <td>
+                    <button class="small-btn">Remove</button>
+                  </td>
                 </tr>
                 <tr>
                   <td>Study</td>
                   <td>Low</td>
                   <td>01/26/2025</td>
-                  <td>Completed</td>
+                  <td>
+                    <input type="checkbox" id="task3" checked />
+                    <label for="task3">Complete</label>
+                  </td>
+                  <td>
+                    <button class="small-btn">Remove</button>
+                  </td>
                 </tr>
               </tbody>
             </table>
@@ -77,7 +95,7 @@
         <fieldset>
           <label for="text17">Progress</label>
           <div class="progress-indicator">
-            <span class="progress-indicator-bar" style="width: 40%"
+            <span class="progress-indicator-bar" style="width: 33%"
               >Progress</span
             >
           </div>
@@ -90,5 +108,7 @@
         </div>
       </div>
     </div>
+
+    <footer></footer>
   </body>
 </html>
