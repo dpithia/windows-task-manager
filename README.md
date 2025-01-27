@@ -41,6 +41,8 @@ The project uses a combination of:
   - Window: #C0C0C0 (Classic silver)
   - Accents: Various greys and whites for authentic shadowing
 <img src="https://i.postimg.cc/02nX75MG/Screenshot-2025-01-26-at-9-01-56-PM.png" width="300">
+<img src="https://i.postimg.cc/3JYby0RJ/Screenshot-2025-01-26-at-9-01-46-PM.png" width="300">
+
 
 ## 🚀 Getting Started
 
