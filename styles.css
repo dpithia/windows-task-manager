@@ -17,3 +17,19 @@ fieldset {
   bottom: 10px;
   width: 400px;
 }
+
+.progress-indicator {
+  height: 20px;
+  margin: 16px 0;
+  background: #fff;
+  box-shadow: inset -1px -1px #fff, inset 1px 1px grey, inset -2px -2px #dfdfdf,
+    inset 2px 2px #0a0a0a;
+  padding: 2px;
+}
+
+.progress-indicator-bar {
+  display: block;
+  height: 100%;
+  background: navy;
+  width: 0%; /* Will be controlled by inline style */
+}
